@@ -1,6 +1,6 @@
 {
   "authorized_hwids": [
-    "b2cfa52f8f7c4b0c82be8e9c9d5d4b3a5f4e54b0c8a6c3b6d0f1e5c8e9b2cfa5"
+    "40d3a683f8a0f9852502ced13c304ad0a3c5ba47bd8ecb3a067576027cc27a77"
   ],
   "authorized_accounts": [12345678, 98765432]
 }
