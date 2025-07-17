@@ -1,5 +1,5 @@
 {
   "authorized_hwids": ["40d3a683f8a0f9852502ced13c304ad0a3c5ba47bd8ecb3a067576027cc27a77",
   "290282c7645e6cffc8038834b8b7f79b7f2a4a86252684bfc38c338d150721f6"],
-  "authorized_accounts": [7331618]
+  "authorized_accounts": [7331618,7356195]
 }
